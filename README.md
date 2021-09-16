@@ -1,0 +1,2 @@
+# pytorch_bert_coreference_resolution
+基于pytorch+bert的指代消解
